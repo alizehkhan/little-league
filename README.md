@@ -1,8 +1,13 @@
-# [Dubai Little League](http://dubailittleleague.netlify.app)
+# [Dubai Little League](http://dubailittleleague.herokuapp.com)
 
-Dubai Little League is a youth league with over 450 players ages 4-17 playing Baseball and Softball in Dubai, UAE.
+## Context
+A cancelled client project due to lack of funds: Dubai Little League is a youth league with over 450 players ages 4-17 playing Baseball and Softball in Dubai, UAE.
 
-## Authors
+## Built with
 
-* [Seyhan Van Khan](https://github.com/seyhanvankhan)
-* [Alizeh Khan](https://github.com/alizehkhan)
+## Setup
+To run this project:
+
+Now you can view the website on
+
+## Screenshots
